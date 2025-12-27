@@ -28,3 +28,8 @@ Malnutrition :
 Obesity vs Malnutrition : 
 
 <img width="1155" height="800" alt="image" src="https://github.com/user-attachments/assets/8aa991cc-082d-41c9-84bf-6fd9cd4c4b51" />
+
+# Project_Flow : 
+
+<img width="1536" height="1024" alt="Project 2 Flow" src="https://github.com/user-attachments/assets/e12409ab-e3ad-4fab-87af-e7c4efc264f9" />
+
